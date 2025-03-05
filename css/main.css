@@ -289,12 +289,6 @@ nav{
   background-color: black;
   color: white;
 }
-/*@media screen and (max-width: 390px){*/
-/*  #about .buttons-about a{*/
-/*    padding-inline: 16px;*/
-/*    !*padding-block: 0;*!*/
-/*  }*/
-/*}*/
 /* The **END** of ABOUT section 1 */
 /* ############################ */
 .main-head h3{
@@ -372,7 +366,7 @@ nav{
 .works-links .nav-item{
   position: relative;
 }
-@media screen and (max-width: 390px){
+@media screen and (max-width: 415px){
   #works .container{
     width: 100% !important;
   }
