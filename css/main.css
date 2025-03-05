@@ -366,7 +366,7 @@ nav{
 .works-links .nav-item{
   position: relative;
 }
-@media screen and (max-width: 415px){
+@media screen and (max-width: 460px){
   #works .container{
     width: 100% !important;
   }
